@@ -11,7 +11,7 @@ class Hello
 {
     public void helloWorld()
     {
-
+        Console.WriteLine("Hello");
     }
 }
 
