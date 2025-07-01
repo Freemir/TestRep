@@ -1,0 +1,14 @@
+C:\Users\werat\Desktop\Lessons\SOLID\SOLID\bin\Debug\net8.0\SOLID.exe
+C:\Users\werat\Desktop\Lessons\SOLID\SOLID\bin\Debug\net8.0\SOLID.deps.json
+C:\Users\werat\Desktop\Lessons\SOLID\SOLID\bin\Debug\net8.0\SOLID.runtimeconfig.json
+C:\Users\werat\Desktop\Lessons\SOLID\SOLID\bin\Debug\net8.0\SOLID.dll
+C:\Users\werat\Desktop\Lessons\SOLID\SOLID\bin\Debug\net8.0\SOLID.pdb
+C:\Users\werat\Desktop\Lessons\SOLID\SOLID\obj\Debug\net8.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\werat\Desktop\Lessons\SOLID\SOLID\obj\Debug\net8.0\SOLID.AssemblyInfoInputs.cache
+C:\Users\werat\Desktop\Lessons\SOLID\SOLID\obj\Debug\net8.0\SOLID.AssemblyInfo.cs
+C:\Users\werat\Desktop\Lessons\SOLID\SOLID\obj\Debug\net8.0\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\werat\Desktop\Lessons\SOLID\SOLID\obj\Debug\net8.0\SOLID.dll
+C:\Users\werat\Desktop\Lessons\SOLID\SOLID\obj\Debug\net8.0\refint\SOLID.dll
+C:\Users\werat\Desktop\Lessons\SOLID\SOLID\obj\Debug\net8.0\SOLID.pdb
+C:\Users\werat\Desktop\Lessons\SOLID\SOLID\obj\Debug\net8.0\SOLID.genruntimeconfig.cache
+C:\Users\werat\Desktop\Lessons\SOLID\SOLID\obj\Debug\net8.0\ref\SOLID.dll
