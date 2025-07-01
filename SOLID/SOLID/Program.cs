@@ -12,6 +12,7 @@ class Hello
     public void helloWorld()
     {
         Console.WriteLine("Hello");
+        Console.WriteLine("World!");
     }
 }
 
