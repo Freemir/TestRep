@@ -7,6 +7,14 @@
 //    public abstract void photo();
 //}
 
+class Hello
+{
+    public void helloWorld()
+    {
+
+    }
+}
+
 //class Phone : Tech
 //{
 //    public void sms()
